@@ -1,117 +1,100 @@
-<div align="center">
+# Mohammed Bahaa Attia
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=%3E+whoami" alt="whoami" />
+**CS Student · AI/ML · Software Engineering · Systems**  
+MSA University, Giza · GPA 3.69 / 4.0 · ~90% of courses graded A or A−
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0" alt="title" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+intelligent+systems...;Turning+data+into+decisions.;Always+learning+%C2%B7+Always+building." alt="subtitle" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865f2,50:a78bfa,100:00d2ff&height=120&section=header&text=Mohammed%20Bahaa&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MB1382005&color=5865f2&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/MB1382005?color=a78bfa&logo=github&style=flat-square)](https://github.com/MB1382005)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/MB1382005)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/MB1382005)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.bahaa5@msa.edu.eg)
 
 ---
 
-## `> whoami`
+## About
 
-```python
-profile = {
-    "name":       "Mohammed Bahaa",
-    "username":   "MB1382005",
-    "role":       "AI & Data Science Engineer",
-    "location":   "Egypt 🇪🇬",
-    "focus":      ["Machine Learning", "Deep Learning", "Data Analysis"],
-    "currently":  "Building cool AI projects 🚀",
-    "fun_fact":   "I think in tensors 🧠",
-}
-```
+Full-spectrum CS student across AI/ML, software engineering, systems, and CS theory.  
+Recent highlights: **83.51% AUC** stacking ensemble on 301K+ clinical records · bilingual Arabic/English NLP recommender · brain tumor CNN · pharmacy ERP · compiler implementation · Odoo ERP customization.  
+Twice runner-up — MSA Deep Minds AI Competition.
 
 ---
 
-## `⚡ Tech Stack`
+## Academic Performance
 
-**🤖 AI & Machine Learning**
+**GPA 3.69 / 4.0** — ~90% of completed courses graded A or A−, at most 2 courses below B+.
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=a78bfa)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=22d3ee)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=4ade80)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=f87171)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=22d3ee)
-
-**📊 Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58a6ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=a78bfa)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=plotly&logoColor=22d3ee)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4ade80)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f87171)
-
-**🛠️ Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=a78bfa)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=22d3ee)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=4ade80)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=58a6ff)
+| Track | Courses (A / A−) |
+|---|---|
+| AI & Data | Machine Learning · Deep Learning · Image Preprocessing · AI & Information Retrieval · Data Analysis |
+| CS Theory | Algorithms · Data Structures · Compiler Design |
+| Systems | Embedded Systems · Database Systems |
+| Software | Software Engineering · OOP |
 
 ---
 
-## `📊 GitHub Stats`
+## Projects
 
-<div align="center">
+### AI / ML
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MB1382005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e&border_radius=8"/>
+**[Heart Disease Prediction](https://github.com/MB1382005/heart-disease-prediction)** — `AUC 83.51%`  
+5-model stacking ensemble (XGBoost · LightGBM · Scikit-learn) on 301,717 CDC samples. Engineered 15 features, applied SMOTE on a 91/9 class imbalance → Recall 53.8% on 60K held-out test set.
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MB1382005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8"/>
+**[AI Laptop Recommender + IR System](https://github.com/MB1382005/laptop-recommender-system)** — `NLP · Information Retrieval`  
+Bilingual Arabic/English engine supporting 8+ intent types. TensorFlow embeddings · cosine similarity · BM25 IR fallback · Flask web app with interactive EDA dashboard.
 
-</div>
+**[Brain Tumor MRI Classifier](https://github.com/MB1382005/brain-tumor-classification)** — `Computer Vision`  
+CNN for multi-class tumor classification from MRI scans · full image preprocessing pipeline · normalization & feature extraction.
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MB1382005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=5865f2&fire=a78bfa&currStreakLabel=22d3ee&border_radius=8)
-
-</div>
-
----
-
-## `🐍 Contribution Snake`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MB1382005/MB1382005/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MB1382005/MB1382005/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/MB1382005/MB1382005/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
+**[Maze Solver](https://github.com/MB1382005/maze-search-algorithms)** — `AI Search Algorithms`  
+BFS · DFS · A\* with step-by-step Tkinter visualization for live pathfinding comparison.
 
 ---
 
-## `📫 Connect with me`
+### Software Engineering
 
-<div align="center">
+**Pharmacy Management System** — `Full-stack`  
+PHP/MySQL platform · authentication, inventory & reviews modules · AI chatbot for medication alternatives · OOP architecture.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/MB1382005)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171)](mailto:your-email@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=22d3ee)](https://kaggle.com/MB1382005)
+**Odoo ERP** — `ERP Customization`  
+Business process configuration and module customization on Odoo.
 
-</div>
+**[Hotel Booking System](https://github.com/MB1382005/cpp-hotel-booking-system)** — `C++ / C#`  
+University systems project covering OOP, file I/O, and application architecture in C++.
+
+**[C# Platformer Game](https://github.com/MB1382005/csharp-platformer-game)** — `C#`  
+2D game project in C# covering game loop, collision, and OOP design patterns.
 
 ---
 
-<div align="center">
+### CS Fundamentals
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:a78bfa,100:5865f2&height=80&section=footer&animation=fadeIn" width="100%"/>
+**Compiler Design** — `C++`  
+Lexer and parser implementation · tokenization · grammar rules and syntax analysis.
 
-```
-/* always learning · always building · always shipping */
-```
+**Problem Solving** — `Algorithms · C++ · C#`  
+Competitive-style problem solving across data structures, algorithms, and system design topics.
 
-</div>
+---
+
+## Stack
+
+**ML / AI** — TensorFlow · Keras · PyTorch · Scikit-learn · XGBoost · LightGBM · OpenCV · NLP · SMOTE  
+**Data** — Pandas · NumPy · Power BI · SQL · Feature Engineering · EDA  
+**Languages** — Python · C++ · C# · PHP · JavaScript · SQL · Embedded C  
+**Web / Backend** — Flask · PHP · HTML · CSS · JavaScript  
+**Systems** — Embedded C · Linux · Docker · AWS · MLflow · Git  
+**Databases** — PostgreSQL · MySQL  
+**ERP** — Odoo
+
+---
+
+## Credentials
+
+- 🥈 Deep Minds AI Competition — 2nd Place × 2 · MSA University
+- Huawei HCIA-AI V4.0 Certification *(Sep 2025)*
+- AWS Educate — Cloud Foundations *(Apr 2024)*
+- Data Science & AI Masters — Amazon Web Services *(2024 – present)*
+- Master Data Science and AI — Instant Academy & Udemy *(2025 – present)*
+- IEEE Student Member · MSA Student Branch
+
+---
+
+*Arabic (native) · English (professional)*
